@@ -1,2 +1,2 @@
 # hello-next
-learning next
+learning next and Git (finally)
