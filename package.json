@@ -1,0 +1,13 @@
+{
+  "name": "hello-next",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/burnsco/hello-next",
+  "author": "burnsco <coreymburns@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^9.0.7",
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1"
+  }
+}
